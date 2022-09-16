@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    width: 100%;
+   margin-top: 150px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-wrap: wrap;
+
+  
+}
+.product-box{
+    width: 250px;
+    height: 250px;
+    border: 1px solid blue;
+    margin:10px;
+   
+}
+.info{
+text-align: center;
+    align-items: center;
+    align-content: center;
+}
+.checkbox{
+    width: 20px;
+    height: 20px;
+}
+.btn-group{
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    display: flex;
+}
+button{
+
+    width: 130px;
+height: 40px;
+border: 1px solid blue;
+background-color: transparent;
+border-radius: 5px;
+color: blue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button a{
+    text-decoration: none;
+    color: blue;
+}
+.add-product-text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+    left: 20px;
+    top: 50px;
+}
+.div{
+    width: 80%;
+    height: 2px;
+    background-color: blue;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+form{
+    margin: 15px;
+}
+form input{
+    margin: 15px;
+}
+#productType{
+width: 150px;
+height: 50px;
+}
+.fieldbox {
+    display: none;
+  }
+  #delete-product-btn{
+    width: 130px;
+    height: 40px;
+    border: 1px solid blue;
+    background-color: transparent;
+    border-radius: 5px;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: -15px;
+  }
+
+  .title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+  }
+  .footer-text{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+  }
+  .btn{
+    width: 130px;
+    height: 40px;
+    border: 1px solid blue;
+    background-color: transparent;
+    border-radius: 5px;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+.input{
+width:200px;
+height:20px;
+margin-top:30px;
+
+}
